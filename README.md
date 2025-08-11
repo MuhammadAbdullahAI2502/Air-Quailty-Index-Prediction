@@ -17,3 +17,4 @@ Enter pollutant values (PM2.5, PM10, NO₂, SO₂)
 Click predict
 
 View AQI result and category
+<img width="414" height="416" alt="AQI" src="https://github.com/user-attachments/assets/01c0fe41-be1c-49ba-8eba-5cd54318beaf" />
